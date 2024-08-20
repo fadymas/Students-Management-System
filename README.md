@@ -15,3 +15,6 @@ The Students Management System is a Python-based application designed to manage 
 - Python 3.x
 - `matplotlib` library for data visualization
 - `json` and `csv` modules for data handling
+
+### Time For Develop
+1 Month By Myself
